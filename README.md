@@ -7,6 +7,23 @@ This is a part of my PhD research. This is a preference oriented fixed priority 
                  --> Dummy Task Technique for Static Spare Capacity (PO-RMS with dummy task)
 3. RMS
 
+# realtime-scheduler/
+
+1. Constants.h -- contains all the variables
+2. Utility.h -- contains all the utility functions
+3. TaskSetGenerator.h -- contains the task generator class which generates the task set from a uniform distribution
+4. Main.cpp -- the main file
+5. RTScheduling.h -- contains the RT scheduler class
+6. QComparators.h -- contains the queue comparator class that manages the priority queues
+7. Task.h -- contains the task class 
+8. Slack.h -- contains the slack class
+9. porms -- the executable that starts the simulation
+
+# Run
+
+1. change the values of Constants.h
+2. ./porms
+
 # Publication
 
 <https://www.academia.edu/7737839/Preference-Oriented_Fixed-Priority_Scheduling_for_Real-Time_Systems>
