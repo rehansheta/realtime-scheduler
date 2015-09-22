@@ -4,8 +4,8 @@ This is a part of my PhD research. This is a preference oriented fixed priority 
 
 1. Offline method --> Preference-Oriented RMS (PO-RMS) Approach 
 2. Online method --> Slack Management with Wrapper-Tasks (PO-RMS with Slack)
-
                  --> Dummy Task Technique for Static Spare Capacity (PO-RMS with dummy task)
+3. RMS
 
 # Publication
 
