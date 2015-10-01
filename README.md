@@ -19,10 +19,11 @@ This is a part of my PhD research. This is a preference oriented fixed priority 
 8. Slack.h -- contains the slack class
 9. porms -- the executable that starts the simulation
 
-# Run
+# Compile and Run
 
 1. change the values in Constants.h
-2. ./porms
+2. g++ Main.cpp QComparators.cpp RTScheduling.cpp Slack.cpp Tasks.cpp TaskSetGenerator.cpp Utility.cpp -o porms
+3. ./porms
 
 # Publication
 
