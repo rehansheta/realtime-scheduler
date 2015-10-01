@@ -21,9 +21,8 @@ This is a part of my PhD research. This is a preference oriented fixed priority 
 
 # Compile and Run
 
-1. change the values in Constants.h
-2. g++ Main.cpp QComparators.cpp RTScheduling.cpp Slack.cpp Tasks.cpp TaskSetGenerator.cpp Utility.cpp -o porms
-3. ./porms
+1. g++ Main.cpp QComparators.cpp RTScheduling.cpp Slack.cpp Tasks.cpp TaskSetGenerator.cpp Utility.cpp -o porms
+2. ./porms
 
 # Publication
 
