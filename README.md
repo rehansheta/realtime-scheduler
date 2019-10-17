@@ -24,6 +24,7 @@ This is a part of my PhD research. This is a preference oriented fixed priority 
 1. g++ Main.cpp QComparators.cpp RTScheduling.cpp Slack.cpp Tasks.cpp TaskSetGenerator.cpp Utility.cpp -o porms
 2. ./porms
 
-# Publication
+# Publications
 
-<https://www.academia.edu/7737839/Preference-Oriented_Fixed-Priority_Scheduling_for_Real-Time_Systems>
+<https://ieeexplore.ieee.org/document/6945682?tp=&arnumber=6945682>
+<https://www.sciencedirect.com/science/article/pii/S1383762116300819>
